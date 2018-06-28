@@ -1,0 +1,185 @@
+[20-Apr-2018 07:40:38 UTC] PHP Fatal error:  Call to a member function inpu() on null in /home/xigyrz/public_html/boloservices/application/controllers/Home.php on line 327
+[20-Apr-2018 07:40:41 UTC] PHP Fatal error:  Call to a member function inpu() on null in /home/xigyrz/public_html/boloservices/application/controllers/Home.php on line 327
+[20-Apr-2018 07:44:12 UTC] PHP Fatal error:  Call to a member function inpu() on null in /home/xigyrz/public_html/boloservices/application/controllers/Home.php on line 327
+[20-Apr-2018 07:44:14 UTC] PHP Fatal error:  Call to a member function inpu() on null in /home/xigyrz/public_html/boloservices/application/controllers/Home.php on line 327
+[20-Apr-2018 07:44:58 UTC] PHP Fatal error:  Call to a member function inpu() on null in /home/xigyrz/public_html/boloservices/application/controllers/Home.php on line 327
+[20-Apr-2018 07:46:12 UTC] PHP Fatal error:  Call to a member function input() on null in /home/xigyrz/public_html/boloservices/application/controllers/Home.php on line 327
+[21-Apr-2018 08:50:07 UTC] PHP Parse error:  syntax error, unexpected '",city_id"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/xigyrz/public_html/boloservices/application/controllers/Helpers.php on line 60
+[21-Apr-2018 08:52:10 UTC] PHP Parse error:  syntax error, unexpected '",city_id"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/xigyrz/public_html/boloservices/application/controllers/Helpers.php on line 60
+[21-Apr-2018 08:52:16 UTC] PHP Parse error:  syntax error, unexpected '",city_id"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/xigyrz/public_html/boloservices/application/controllers/Helpers.php on line 60
+[21-Apr-2018 08:54:16 UTC] PHP Parse error:  syntax error, unexpected '",city_id"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/xigyrz/public_html/boloservices/application/controllers/Helpers.php on line 60
+[21-Apr-2018 08:54:20 UTC] PHP Parse error:  syntax error, unexpected '",city_id"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/xigyrz/public_html/boloservices/application/controllers/Helpers.php on line 60
+[21-Apr-2018 08:54:39 UTC] PHP Parse error:  syntax error, unexpected '",city_id"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/xigyrz/public_html/boloservices/application/controllers/Helpers.php on line 60
+[21-Apr-2018 08:54:42 UTC] PHP Parse error:  syntax error, unexpected '",city_id"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/xigyrz/public_html/boloservices/application/controllers/Helpers.php on line 60
+[21-Apr-2018 08:54:44 UTC] PHP Parse error:  syntax error, unexpected '",city_id"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/xigyrz/public_html/boloservices/application/controllers/Helpers.php on line 60
+[21-Apr-2018 08:54:57 UTC] PHP Parse error:  syntax error, unexpected '",city_id"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/xigyrz/public_html/boloservices/application/controllers/Helpers.php on line 60
+[21-Apr-2018 08:54:59 UTC] PHP Parse error:  syntax error, unexpected '",city_id"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/xigyrz/public_html/boloservices/application/controllers/Helpers.php on line 60
+[21-Apr-2018 08:55:01 UTC] PHP Parse error:  syntax error, unexpected '",city_id"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/xigyrz/public_html/boloservices/application/controllers/Helpers.php on line 60
+[21-Apr-2018 10:12:45 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/xigyrz/public_html/boloservices/application/models/User_model.php on line 185
+[21-Apr-2018 10:15:15 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/xigyrz/public_html/boloservices/application/models/User_model.php on line 185
+[21-Apr-2018 10:16:22 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/xigyrz/public_html/boloservices/application/models/User_model.php on line 185
+[21-Apr-2018 10:16:33 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/xigyrz/public_html/boloservices/application/models/User_model.php on line 185
+[21-Apr-2018 10:18:37 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/xigyrz/public_html/boloservices/application/models/User_model.php on line 185
+[21-Apr-2018 10:24:05 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/xigyrz/public_html/boloservices/application/models/User_model.php on line 185
+[21-Apr-2018 10:25:06 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/xigyrz/public_html/boloservices/application/models/User_model.php on line 185
+[21-Apr-2018 10:25:28 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/xigyrz/public_html/boloservices/application/models/User_model.php on line 185
+[21-Apr-2018 10:25:46 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/xigyrz/public_html/boloservices/application/models/User_model.php on line 185
+[21-Apr-2018 10:25:58 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/xigyrz/public_html/boloservices/application/models/User_model.php on line 185
+[28-Apr-2018 07:57:38 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/xigyrz/public_html/boloservices/application/controllers/Home.php on line 78
+[28-Apr-2018 07:58:08 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/xigyrz/public_html/boloservices/application/controllers/Home.php on line 112
+[28-Apr-2018 07:58:11 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/xigyrz/public_html/boloservices/application/controllers/Home.php on line 112
+[02-May-2018 12:18:30 UTC] PHP Fatal error:  Call to a member function sliderslog() on null in /home/xigyrz/public_html/boloservices/application/controllers/Home.php on line 534
+[02-May-2018 12:19:54 UTC] PHP Fatal error:  Call to a member function sliderslog() on null in /home/xigyrz/public_html/boloservices/application/controllers/Home.php on line 534
+[02-May-2018 12:19:56 UTC] PHP Fatal error:  Call to a member function sliderslog() on null in /home/xigyrz/public_html/boloservices/application/controllers/Home.php on line 534
+[02-May-2018 12:20:13 UTC] PHP Fatal error:  Call to a member function sliderslog() on null in /home/xigyrz/public_html/boloservices/application/controllers/Home.php on line 534
+[02-May-2018 12:20:46 UTC] PHP Fatal error:  Call to a member function sliderslog() on null in /home/xigyrz/public_html/boloservices/application/controllers/Home.php on line 534
+[02-May-2018 12:23:46 UTC] PHP Fatal error:  Call to a member function sliderslog() on null in /home/xigyrz/public_html/boloservices/application/controllers/Home.php on line 540
+[02-May-2018 12:24:53 UTC] PHP Fatal error:  Call to a member function sliderslog() on null in /home/xigyrz/public_html/boloservices/application/controllers/Home.php on line 540
+[05-May-2018 06:20:05 UTC] PHP Parse error:  syntax error, unexpected '"cities"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/xigyrz/public_html/boloservices/application/controllers/Home.php on line 329
+[07-May-2018 13:37:17 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::resut_array() in /home/xigyrz/public_html/boloservices/application/models/Category_model.php on line 105
+[08-May-2018 10:16:09 UTC] PHP Parse error:  syntax error, unexpected '"' in /home/xigyrz/public_html/boloservices/application/models/Category_model.php on line 34
+[15-May-2018 10:25:46 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/xigyrz/public_html/boloservices/application/controllers/Cart.php on line 249
+[15-May-2018 10:25:53 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/xigyrz/public_html/boloservices/application/controllers/Cart.php on line 249
+[15-May-2018 11:48:05 UTC] PHP Fatal error:  Call to undefined method Cart_model::charges() in /home/xigyrz/public_html/boloservices/application/controllers/Cart.php on line 409
+[15-May-2018 11:48:37 UTC] PHP Fatal error:  Call to undefined method Cart_model::charges() in /home/xigyrz/public_html/boloservices/application/controllers/Cart.php on line 409
+[15-May-2018 11:53:12 UTC] PHP Fatal error:  Call to undefined method Cart_model::charges() in /home/xigyrz/public_html/boloservices/application/controllers/Cart.php on line 409
+[15-May-2018 11:53:29 UTC] PHP Fatal error:  Call to undefined method Cart_model::charges() in /home/xigyrz/public_html/boloservices/application/controllers/Cart.php on line 409
+[15-May-2018 11:53:45 UTC] PHP Fatal error:  Call to undefined method Cart_model::charges() in /home/xigyrz/public_html/boloservices/application/controllers/Cart.php on line 409
+[15-May-2018 11:53:56 UTC] PHP Fatal error:  Call to undefined method Cart_model::charges() in /home/xigyrz/public_html/boloservices/application/controllers/Cart.php on line 409
+[17-May-2018 14:16:08 UTC] PHP Fatal error:  Call to undefined method User_model::addressdata() in /home/xigyrz/public_html/boloservices/application/controllers/Users.php on line 378
+[17-May-2018 14:16:45 UTC] PHP Fatal error:  Call to undefined method User_model::addressdata() in /home/xigyrz/public_html/boloservices/application/controllers/Users.php on line 378
+[18-May-2018 14:27:35 UTC] PHP Fatal error:  Call to undefined method Category_model::popular_services1() in /home/xigyrz/public_html/boloservices/application/controllers/Home.php on line 104
+[19-May-2018 03:17:41 UTC] PHP Fatal error:  Call to undefined method Category_model::popular_services1() in /home/xigyrz/public_html/boloservices/application/controllers/Home.php on line 104
+[19-May-2018 03:17:52 UTC] PHP Fatal error:  Call to undefined method Category_model::popular_services1() in /home/xigyrz/public_html/boloservices/application/controllers/Home.php on line 104
+[19-May-2018 03:18:20 UTC] PHP Fatal error:  Call to undefined method Category_model::popular_services1() in /home/xigyrz/public_html/boloservices/application/controllers/Home.php on line 104
+[19-May-2018 03:19:20 UTC] PHP Fatal error:  Call to undefined method Category_model::popular_services1() in /home/xigyrz/public_html/boloservices/application/controllers/Home.php on line 104
+[19-May-2018 03:19:46 UTC] PHP Fatal error:  Call to undefined method Category_model::popular_services1() in /home/xigyrz/public_html/boloservices/application/controllers/Home.php on line 104
+[19-May-2018 03:20:00 UTC] PHP Fatal error:  Call to undefined method Category_model::popular_services1() in /home/xigyrz/public_html/boloservices/application/controllers/Home.php on line 104
+[19-May-2018 03:20:26 UTC] PHP Fatal error:  Call to undefined method Category_model::popular_services1() in /home/xigyrz/public_html/boloservices/application/controllers/Home.php on line 104
+[19-May-2018 03:20:27 UTC] PHP Fatal error:  Call to undefined method Category_model::popular_services1() in /home/xigyrz/public_html/boloservices/application/controllers/Home.php on line 104
+[19-May-2018 04:13:32 UTC] PHP Fatal error:  Call to undefined method Category_model::popular_services1() in /home/xigyrz/public_html/boloservices/application/controllers/Home.php on line 104
+[19-May-2018 04:13:44 UTC] PHP Fatal error:  Call to undefined method Category_model::popular_services1() in /home/xigyrz/public_html/boloservices/application/controllers/Home.php on line 104
+[19-May-2018 04:13:44 UTC] PHP Fatal error:  Call to undefined method Category_model::popular_services1() in /home/xigyrz/public_html/boloservices/application/controllers/Home.php on line 104
+[19-May-2018 04:13:54 UTC] PHP Fatal error:  Call to undefined method Category_model::popular_services1() in /home/xigyrz/public_html/boloservices/application/controllers/Home.php on line 104
+[19-May-2018 04:14:03 UTC] PHP Fatal error:  Call to undefined method Category_model::popular_services1() in /home/xigyrz/public_html/boloservices/application/controllers/Home.php on line 104
+[19-May-2018 04:14:54 UTC] PHP Fatal error:  Call to undefined method Category_model::popular_services1() in /home/xigyrz/public_html/boloservices/application/controllers/Home.php on line 104
+[19-May-2018 04:15:12 UTC] PHP Fatal error:  Call to undefined method Category_model::popular_services1() in /home/xigyrz/public_html/boloservices/application/controllers/Home.php on line 104
+[19-May-2018 04:15:42 UTC] PHP Fatal error:  Call to undefined method Category_model::popular_services1() in /home/xigyrz/public_html/boloservices/application/controllers/Home.php on line 104
+[19-May-2018 04:46:46 UTC] PHP Fatal error:  Call to undefined method Category_model::popular_services1() in /home/xigyrz/public_html/boloservices/application/controllers/Home.php on line 104
+[19-May-2018 04:51:21 UTC] PHP Fatal error:  Call to undefined method Category_model::popular_services1() in /home/xigyrz/public_html/boloservices/application/controllers/Home.php on line 104
+[19-May-2018 04:51:43 UTC] PHP Fatal error:  Call to undefined method Category_model::popular_services1() in /home/xigyrz/public_html/boloservices/application/controllers/Home.php on line 104
+[19-May-2018 04:53:51 UTC] PHP Fatal error:  Call to undefined method Category_model::popular_services1() in /home/xigyrz/public_html/boloservices/application/controllers/Home.php on line 104
+[19-May-2018 04:59:21 UTC] PHP Fatal error:  Call to undefined method Category_model::popular_services1() in /home/xigyrz/public_html/boloservices/application/controllers/Home.php on line 104
+[19-May-2018 05:01:31 UTC] PHP Fatal error:  Call to undefined method Category_model::popular_services1() in /home/xigyrz/public_html/boloservices/application/controllers/Home.php on line 104
+[23-May-2018 09:45:38 UTC] PHP Fatal error:  Call to undefined method Category_model::popularservicemenu1() in /home/xigyrz/public_html/boloservices/application/controllers/Home.php on line 117
+[23-May-2018 09:45:41 UTC] PHP Fatal error:  Call to undefined method Category_model::popularservicemenu1() in /home/xigyrz/public_html/boloservices/application/controllers/Home.php on line 117
+[23-May-2018 09:45:42 UTC] PHP Fatal error:  Call to undefined method Category_model::popularservicemenu1() in /home/xigyrz/public_html/boloservices/application/controllers/Home.php on line 117
+[23-May-2018 09:45:44 UTC] PHP Fatal error:  Call to undefined method Category_model::popularservicemenu1() in /home/xigyrz/public_html/boloservices/application/controllers/Home.php on line 117
+[23-May-2018 09:45:45 UTC] PHP Fatal error:  Call to undefined method Category_model::popularservicemenu1() in /home/xigyrz/public_html/boloservices/application/controllers/Home.php on line 117
+[23-May-2018 09:45:46 UTC] PHP Fatal error:  Call to undefined method Category_model::popularservicemenu1() in /home/xigyrz/public_html/boloservices/application/controllers/Home.php on line 117
+[23-May-2018 09:45:52 UTC] PHP Fatal error:  Call to undefined method Category_model::popularservicemenu1() in /home/xigyrz/public_html/boloservices/application/controllers/Home.php on line 277
+[23-May-2018 09:46:08 UTC] PHP Fatal error:  Call to undefined method Category_model::popularservicemenu1() in /home/xigyrz/public_html/boloservices/application/controllers/Home.php on line 277
+[23-May-2018 09:46:14 UTC] PHP Fatal error:  Call to undefined method Category_model::popularservicemenu1() in /home/xigyrz/public_html/boloservices/application/controllers/Home.php on line 117
+[23-May-2018 09:46:16 UTC] PHP Fatal error:  Call to undefined method Category_model::popularservicemenu1() in /home/xigyrz/public_html/boloservices/application/controllers/Home.php on line 117
+[23-May-2018 09:46:25 UTC] PHP Fatal error:  Call to undefined method Category_model::popularservicemenu1() in /home/xigyrz/public_html/boloservices/application/controllers/Home.php on line 117
+[23-May-2018 09:46:26 UTC] PHP Fatal error:  Call to undefined method Category_model::popularservicemenu1() in /home/xigyrz/public_html/boloservices/application/controllers/Home.php on line 117
+[23-May-2018 09:46:35 UTC] PHP Fatal error:  Call to undefined method Category_model::popularservicemenu1() in /home/xigyrz/public_html/boloservices/application/controllers/Home.php on line 117
+[23-May-2018 09:46:44 UTC] PHP Fatal error:  Call to undefined method Category_model::popularservicemenu1() in /home/xigyrz/public_html/boloservices/application/controllers/Home.php on line 277
+[23-May-2018 09:46:49 UTC] PHP Fatal error:  Call to undefined method Category_model::popularservicemenu1() in /home/xigyrz/public_html/boloservices/application/controllers/Home.php on line 117
+[23-May-2018 09:46:51 UTC] PHP Fatal error:  Call to undefined method Category_model::popularservicemenu1() in /home/xigyrz/public_html/boloservices/application/controllers/Home.php on line 117
+[23-May-2018 09:46:52 UTC] PHP Fatal error:  Call to undefined method Category_model::popularservicemenu1() in /home/xigyrz/public_html/boloservices/application/controllers/Home.php on line 117
+[23-May-2018 09:46:54 UTC] PHP Fatal error:  Call to undefined method Category_model::popularservicemenu1() in /home/xigyrz/public_html/boloservices/application/controllers/Home.php on line 117
+[23-May-2018 09:46:57 UTC] PHP Fatal error:  Call to undefined method Category_model::popularservicemenu1() in /home/xigyrz/public_html/boloservices/application/controllers/Home.php on line 277
+[23-May-2018 09:47:07 UTC] PHP Fatal error:  Call to undefined method Category_model::popularservicemenu1() in /home/xigyrz/public_html/boloservices/application/controllers/Home.php on line 117
+[23-May-2018 09:47:10 UTC] PHP Fatal error:  Call to undefined method Category_model::popularservicemenu1() in /home/xigyrz/public_html/boloservices/application/controllers/Home.php on line 277
+[23-May-2018 09:47:41 UTC] PHP Fatal error:  Call to undefined method Category_model::popularservicemenu1() in /home/xigyrz/public_html/boloservices/application/controllers/Home.php on line 117
+[23-May-2018 09:47:56 UTC] PHP Fatal error:  Call to undefined method Category_model::popularservicemenu1() in /home/xigyrz/public_html/boloservices/application/controllers/Home.php on line 117
+[23-May-2018 09:48:01 UTC] PHP Fatal error:  Call to undefined method Category_model::popularservicemenu1() in /home/xigyrz/public_html/boloservices/application/controllers/Home.php on line 117
+[25-May-2018 07:55:15 UTC] PHP Fatal error:  Cannot redeclare Cart::checkout() in /home/xigyrz/public_html/boloservices/application/controllers/Cart.php on line 682
+[25-May-2018 07:55:18 UTC] PHP Fatal error:  Cannot redeclare Cart::checkout() in /home/xigyrz/public_html/boloservices/application/controllers/Cart.php on line 682
+[25-May-2018 07:55:27 UTC] PHP Fatal error:  Cannot redeclare Cart::checkout() in /home/xigyrz/public_html/boloservices/application/controllers/Cart.php on line 682
+[25-May-2018 07:55:29 UTC] PHP Fatal error:  Cannot redeclare Cart::checkout() in /home/xigyrz/public_html/boloservices/application/controllers/Cart.php on line 682
+[25-May-2018 07:55:30 UTC] PHP Fatal error:  Cannot redeclare Cart::checkout() in /home/xigyrz/public_html/boloservices/application/controllers/Cart.php on line 682
+[25-May-2018 07:55:30 UTC] PHP Fatal error:  Cannot redeclare Cart::checkout() in /home/xigyrz/public_html/boloservices/application/controllers/Cart.php on line 682
+[25-May-2018 07:55:31 UTC] PHP Fatal error:  Cannot redeclare Cart::checkout() in /home/xigyrz/public_html/boloservices/application/controllers/Cart.php on line 682
+[25-May-2018 07:55:42 UTC] PHP Fatal error:  Cannot redeclare Cart::checkout() in /home/xigyrz/public_html/boloservices/application/controllers/Cart.php on line 682
+[25-May-2018 07:56:16 UTC] PHP Fatal error:  Cannot redeclare Cart::checkout() in /home/xigyrz/public_html/boloservices/application/controllers/Cart.php on line 682
+[25-May-2018 07:56:45 UTC] PHP Fatal error:  Cannot redeclare Cart::checkout() in /home/xigyrz/public_html/boloservices/application/controllers/Cart.php on line 682
+[25-May-2018 07:56:49 UTC] PHP Fatal error:  Cannot redeclare Cart::checkout() in /home/xigyrz/public_html/boloservices/application/controllers/Cart.php on line 682
+[25-May-2018 07:56:51 UTC] PHP Fatal error:  Cannot redeclare Cart::checkout() in /home/xigyrz/public_html/boloservices/application/controllers/Cart.php on line 682
+[25-May-2018 07:57:20 UTC] PHP Fatal error:  Cannot redeclare Cart::checkout() in /home/xigyrz/public_html/boloservices/application/controllers/Cart.php on line 682
+[25-May-2018 07:57:57 UTC] PHP Fatal error:  Cannot redeclare Cart::checkout() in /home/xigyrz/public_html/boloservices/application/controllers/Cart.php on line 682
+[25-May-2018 07:57:57 UTC] PHP Fatal error:  Cannot redeclare Cart::checkout() in /home/xigyrz/public_html/boloservices/application/controllers/Cart.php on line 682
+[25-May-2018 07:59:04 UTC] PHP Fatal error:  Cannot redeclare Cart::checkout() in /home/xigyrz/public_html/boloservices/application/controllers/Cart.php on line 682
+[26-May-2018 12:42:51 UTC] PHP Fatal error:  Cannot redeclare Category_model::productfilter() in /home/xigyrz/public_html/boloservices/application/models/Category_model.php on line 139
+[26-May-2018 12:42:55 UTC] PHP Fatal error:  Cannot redeclare Category_model::productfilter() in /home/xigyrz/public_html/boloservices/application/models/Category_model.php on line 139
+[26-May-2018 12:42:59 UTC] PHP Fatal error:  Cannot redeclare Category_model::productfilter() in /home/xigyrz/public_html/boloservices/application/models/Category_model.php on line 139
+[26-May-2018 12:43:24 UTC] PHP Fatal error:  Cannot redeclare Category_model::productfilter() in /home/xigyrz/public_html/boloservices/application/models/Category_model.php on line 139
+[26-May-2018 12:43:52 UTC] PHP Fatal error:  Cannot redeclare Category_model::productfilter() in /home/xigyrz/public_html/boloservices/application/models/Category_model.php on line 139
+[26-May-2018 12:44:16 UTC] PHP Fatal error:  Cannot redeclare Category_model::productfilter() in /home/xigyrz/public_html/boloservices/application/models/Category_model.php on line 139
+[30-May-2018 13:36:31 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/xigyrz/public_html/boloservices/application/models/Category_model.php on line 398
+[30-May-2018 13:36:40 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/xigyrz/public_html/boloservices/application/models/Category_model.php on line 398
+[30-May-2018 13:37:45 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/xigyrz/public_html/boloservices/application/models/Category_model.php on line 398
+[30-May-2018 13:37:51 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/xigyrz/public_html/boloservices/application/models/Category_model.php on line 398
+[30-May-2018 13:37:59 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/xigyrz/public_html/boloservices/application/models/Category_model.php on line 398
+[30-May-2018 13:41:10 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/xigyrz/public_html/boloservices/application/models/Category_model.php on line 398
+[30-May-2018 13:41:16 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/xigyrz/public_html/boloservices/application/models/Category_model.php on line 398
+[30-May-2018 14:02:47 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/xigyrz/public_html/boloservices/application/models/Category_model.php on line 398
+[30-May-2018 14:03:29 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/xigyrz/public_html/boloservices/application/models/Category_model.php on line 398
+[30-May-2018 14:03:31 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/xigyrz/public_html/boloservices/application/models/Category_model.php on line 398
+[30-May-2018 14:03:39 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/xigyrz/public_html/boloservices/application/models/Category_model.php on line 398
+[30-May-2018 14:06:34 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/xigyrz/public_html/boloservices/application/models/Category_model.php on line 398
+[30-May-2018 14:06:43 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/xigyrz/public_html/boloservices/application/models/Category_model.php on line 398
+[30-May-2018 14:07:06 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/xigyrz/public_html/boloservices/application/models/Category_model.php on line 398
+[30-May-2018 14:07:24 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/xigyrz/public_html/boloservices/application/models/Category_model.php on line 398
+[30-May-2018 14:07:26 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/xigyrz/public_html/boloservices/application/models/Category_model.php on line 398
+[30-May-2018 14:07:29 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/xigyrz/public_html/boloservices/application/models/Category_model.php on line 398
+[30-May-2018 14:07:33 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/xigyrz/public_html/boloservices/application/models/Category_model.php on line 398
+[30-May-2018 14:07:38 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/xigyrz/public_html/boloservices/application/models/Category_model.php on line 398
+[30-May-2018 14:07:45 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/xigyrz/public_html/boloservices/application/models/Category_model.php on line 398
+[30-May-2018 14:07:48 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/xigyrz/public_html/boloservices/application/models/Category_model.php on line 398
+[30-May-2018 14:07:57 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/xigyrz/public_html/boloservices/application/models/Category_model.php on line 398
+[30-May-2018 14:08:00 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/xigyrz/public_html/boloservices/application/models/Category_model.php on line 398
+[30-May-2018 14:08:03 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/xigyrz/public_html/boloservices/application/models/Category_model.php on line 398
+[30-May-2018 14:08:15 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/xigyrz/public_html/boloservices/application/models/Category_model.php on line 398
+[30-May-2018 14:08:33 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/xigyrz/public_html/boloservices/application/models/Category_model.php on line 398
+[30-May-2018 14:08:34 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/xigyrz/public_html/boloservices/application/models/Category_model.php on line 398
+[30-May-2018 14:08:36 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/xigyrz/public_html/boloservices/application/models/Category_model.php on line 398
+[30-May-2018 14:08:38 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/xigyrz/public_html/boloservices/application/models/Category_model.php on line 398
+[30-May-2018 14:08:38 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/xigyrz/public_html/boloservices/application/models/Category_model.php on line 398
+[30-May-2018 14:08:40 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/xigyrz/public_html/boloservices/application/models/Category_model.php on line 398
+[30-May-2018 14:08:51 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/xigyrz/public_html/boloservices/application/models/Category_model.php on line 398
+[30-May-2018 14:09:04 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/xigyrz/public_html/boloservices/application/models/Category_model.php on line 398
+[30-May-2018 14:09:12 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/xigyrz/public_html/boloservices/application/models/Category_model.php on line 398
+[30-May-2018 14:09:18 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/xigyrz/public_html/boloservices/application/models/Category_model.php on line 398
+[30-May-2018 14:09:19 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/xigyrz/public_html/boloservices/application/models/Category_model.php on line 398
+[30-May-2018 14:09:20 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/xigyrz/public_html/boloservices/application/models/Category_model.php on line 398
+[30-May-2018 14:09:21 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/xigyrz/public_html/boloservices/application/models/Category_model.php on line 398
+[30-May-2018 14:09:22 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/xigyrz/public_html/boloservices/application/models/Category_model.php on line 398
+[30-May-2018 14:09:23 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/xigyrz/public_html/boloservices/application/models/Category_model.php on line 398
+[30-May-2018 14:09:24 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/xigyrz/public_html/boloservices/application/models/Category_model.php on line 398
+[30-May-2018 14:09:25 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/xigyrz/public_html/boloservices/application/models/Category_model.php on line 398
+[30-May-2018 14:09:26 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/xigyrz/public_html/boloservices/application/models/Category_model.php on line 398
+[30-May-2018 14:09:27 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/xigyrz/public_html/boloservices/application/models/Category_model.php on line 398
+[30-May-2018 14:09:28 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/xigyrz/public_html/boloservices/application/models/Category_model.php on line 398
+[30-May-2018 14:09:32 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/xigyrz/public_html/boloservices/application/models/Category_model.php on line 398
+[30-May-2018 14:09:34 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/xigyrz/public_html/boloservices/application/models/Category_model.php on line 398
+[30-May-2018 14:09:40 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/xigyrz/public_html/boloservices/application/models/Category_model.php on line 398
+[30-May-2018 14:09:45 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/xigyrz/public_html/boloservices/application/models/Category_model.php on line 398
+[30-May-2018 14:10:30 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/xigyrz/public_html/boloservices/application/models/Category_model.php on line 398
+[30-May-2018 14:10:37 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/xigyrz/public_html/boloservices/application/models/Category_model.php on line 398
+[30-May-2018 14:12:21 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/xigyrz/public_html/boloservices/application/models/Category_model.php on line 398
+[30-May-2018 14:12:29 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/xigyrz/public_html/boloservices/application/models/Category_model.php on line 398
+[30-May-2018 14:12:41 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/xigyrz/public_html/boloservices/application/models/Category_model.php on line 398
+[30-May-2018 14:12:46 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/xigyrz/public_html/boloservices/application/models/Category_model.php on line 398
+[30-May-2018 14:12:46 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/xigyrz/public_html/boloservices/application/models/Category_model.php on line 398
+[30-May-2018 14:13:00 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/xigyrz/public_html/boloservices/application/models/Category_model.php on line 398
+[30-May-2018 14:13:01 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/xigyrz/public_html/boloservices/application/models/Category_model.php on line 398
+[30-May-2018 14:14:11 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/xigyrz/public_html/boloservices/application/models/Category_model.php on line 398
+[31-May-2018 11:40:36 UTC] PHP Fatal error:  Call to a member function num_rows() on null in /home/xigyrz/public_html/boloservices/application/models/Category_model.php on line 386
+[31-May-2018 13:44:02 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::result_row() in /home/xigyrz/public_html/boloservices/application/models/User_model.php on line 410
+[01-Jun-2018 09:25:13 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/xigyrz/public_html/boloservices/application/controllers/Users.php on line 199
+[01-Jun-2018 09:25:43 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/xigyrz/public_html/boloservices/application/controllers/Users.php on line 199
+[01-Jun-2018 09:27:15 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/xigyrz/public_html/boloservices/application/controllers/Users.php on line 199
+[01-Jun-2018 09:27:28 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/xigyrz/public_html/boloservices/application/controllers/Users.php on line 199
+[01-Jun-2018 09:27:35 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/xigyrz/public_html/boloservices/application/controllers/Users.php on line 199
